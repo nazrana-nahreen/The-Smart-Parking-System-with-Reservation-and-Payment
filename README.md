@@ -62,19 +62,6 @@ This project is a **database-backed Smart Parking System** designed to streamlin
 
 ---
 
-## 🧪 Sample Contents
-
-| File                  | Description |
-|-----------------------|-------------|
-| `ddl_tables.sql`      | CREATE TABLE statements |
-| `insert_data.sql`     | Sample INSERT data for all tables |
-| `queries.sql`         | SQL queries (single-table, join, subquery) |
-| `plsql_blocks.sql`    | PL/SQL procedures, triggers, etc. |
-| `erd_diagram.png`     | Screenshot/image of ERD |
-| `report.pdf`          | Final project abstract + conclusion |
-| `README.md`           | Project summary (this file) |
-
----
 
 ## 🛠 Technologies Used
 
